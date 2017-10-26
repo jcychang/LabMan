@@ -26,7 +26,7 @@
 }
 
 body {
-  background: url('./grayscale-MD.png');
+  /*background: url('./grayscale-MD.png');*/
   background-size: cover;
 }
 a {
