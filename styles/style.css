@@ -29,6 +29,9 @@ a {
 a:hover {
   color: #b21c20;
 }
+.custom-hr {
+  border-top: 1px solid #c81f23;
+}
 hr {
   border-top: 1px solid #ddd;
 }
