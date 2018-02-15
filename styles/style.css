@@ -74,6 +74,12 @@ hr {
   border-radius: 0;
 }
 
+.alert-box {
+  border: 1px solid rgb(226, 24, 51);
+  margin-top: 1em;
+  padding: 0px 15px 15px 15px;
+}
+
 /* make sidebar nav vertical */
 @media (min-width: 768px) {
   .sidebar-nav .navbar .navbar-collapse {
