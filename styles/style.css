@@ -1,3 +1,11 @@
+.white-row {
+  background-color: white !important;
+}
+
+.grey-row {
+  background-color: #f9f9f9 !important;
+}
+
 .class-sup-track {
   color: #800080;
 }
